@@ -11,4 +11,7 @@ this project uses npm
 then start in development mode:
 - run: `` npm run dev ``
 
-Project made in Vite, with Vanilla JS
+- Project made in Vite, with Vanilla JS
+
+URL site: [this](https://simulator-code.netlify.app)
+
