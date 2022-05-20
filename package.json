@@ -1,0 +1,17 @@
+{
+  "name": "simulator-webcode",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.7"
+  },
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "monaco-editor": "^0.33.0"
+  }
+}
