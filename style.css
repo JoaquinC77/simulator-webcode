@@ -30,7 +30,8 @@ iframe {
 
 /* Header section styles */
 .header {
-  width: 10%;
+  width: 4%;
+  min-width: 65px;
   display: flex;
   flex-direction: column;
 }
